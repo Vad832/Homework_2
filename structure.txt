@@ -1,0 +1,14 @@
+ID
+Summary
+Description
+Status
+Author
+Assigned to
+Steps to Reproduce
+Actual result
+Expected result
+Environment
+Severity
+Priorit
+Attachment
+
